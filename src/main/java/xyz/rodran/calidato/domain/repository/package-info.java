@@ -1,0 +1,1 @@
+package xyz.rodran.calidato.domain.repository;
