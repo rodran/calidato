@@ -1,1 +1,0 @@
-package xyz.rodran.calidato.api.controller;
